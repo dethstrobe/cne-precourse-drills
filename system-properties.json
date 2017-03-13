@@ -1,4 +1,5 @@
-va.runtime.name": "Java(TM) SE Runtime Environment",
+{
+  "java.runtime.name": "Java(TM) SE Runtime Environment",
   "sun.boot.library.path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib",
   "java.vm.version": "25.121-b13",
   "gopherProxySet": "false",
